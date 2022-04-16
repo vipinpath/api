@@ -1,0 +1,17 @@
+Django==3.1.13
+mysqlclient==2.0.3
+python-dotenv
+python-whois
+validators
+djangorestframework
+datetime
+textblob
+bs4
+requests
+html5lib
+google
+drf-yasg
+shodan
+censys
+tweepy
+instagram-explore   # Install separately after all other requirements have been installed
